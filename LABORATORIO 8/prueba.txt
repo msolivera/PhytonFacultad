@@ -1,0 +1,12 @@
+def sustitucion (cadena):
+ resultado=""
+    contador=1
+    for i in range (len(cadena)):
+        if cadena[i] in "aeiouAEIOUáéíóúÁÉÍÓÚ":
+            resultado+=s
+tr(contador)
+            contador+=1
+        else:
+            resultado+=cadena[i]
+    return resultado
+print(sustitucion("Programación"))

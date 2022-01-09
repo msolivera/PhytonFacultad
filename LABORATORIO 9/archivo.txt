@@ -1,0 +1,7 @@
+Crear una función que permita determinar probabilísticamente 
+resultados que se pueden obtener en una tirada de un dado. Para eso se deben generar 10.000 
+tiradas aleatorias y obtener el porcentaje que resulta para cada número posible en el dado
+5. Definir una función que abra un archivo (cuyo nombre es dado como parámetro) y cuente las 
+palabras en el archivo que tienen “la misma letra inicial”. La función debe imprimir el resultado 
+en forma de una tabla ordenada por letra y luego ordenada 
+por frecuencia en la siguiente manera:

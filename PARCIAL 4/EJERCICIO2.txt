@@ -1,0 +1,6 @@
+Escribir una función que le permita ingresar texto a un usuario, hasta que ingrese la secuencia
+de caracteres "::q" con la cual indicará que finaliza el ingreso.
+Luego de finalizado el ingreso, el programa le solicitará que ingrese un nombre (ubicación y
+nombre con extensión) de archivo en el cual se grabará todo el texto ingresado.
+Finalmente le preguntará si quiere ver el texto guardado en el archivo, y en caso afirmativo le
+mostrará el contenido del archivo grabado.

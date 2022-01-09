@@ -1,0 +1,7 @@
+Microsoft Windows [Versión 10.0.14393]
+(c) 2016 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\usuario>cd C:\Users\usuario\AppData\Local\Programs\Python\Python36-32
+
+C:\Users\usuario\AppData\Local\Programs\Python\Python36-32>python.exe -m http.server --cgi 8080
+Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...

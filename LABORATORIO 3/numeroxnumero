@@ -1,0 +1,8 @@
+def numero_numero (numero):
+    resultado= numero**2 - 4
+
+    print (resultado)
+
+prueba1=numero_numero (4)
+
+

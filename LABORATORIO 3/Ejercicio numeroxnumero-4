@@ -1,0 +1,7 @@
+def numero_numero (numero):
+    resultado = numero * numero - 4
+    return resultado
+
+prueba1: numero_numero (2)
+
+print (prueba1)

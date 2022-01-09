@@ -1,0 +1,9 @@
+Crear una clase ‘Email’ que permita representar la información de un email. 
+Un email tiene un remitente (dirección de correo electrónico de quien lo escribe), destinatarios 
+(lista de correos electrónicos de los receptores del mail), un asunto y un cuerpo del email.
+a. Agregar una función a la clase que permita validar las direcciones de correo electrónico de los destinatarios. 
+Una dirección de correo electrónico se considerará válida si contiene: una cadena al principio, 
+luego el carácter ‘@', y luego, tres cadenas separadas por dos puntos.
+b. Agregar una función de clase que recibe una lista de objetos persona (iguales al ejercicio 2), 
+la dirección del remitente, el asunto y el cuerpo de un email como parámetro y retorna un nuevo objeto ‘Email’ donde los receptores son las
+direcciones de correo electrónico correspondientes a cada persona de la lista recibida.
